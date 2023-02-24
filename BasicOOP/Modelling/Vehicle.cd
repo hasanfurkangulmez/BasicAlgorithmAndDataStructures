@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BasicAlgorithmAndDataStructures.BasicOOP.Modelling.Vehicle">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAEEAAAABAAAAAQEAAAAAAAAAAAAAAAAIAgAABAJAAA=</HashCode>
+      <FileName>BasicOOP\Modelling\Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicAlgorithmAndDataStructures.BasicOOP.Modelling.Tool">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAIAAABAAAA=</HashCode>
+      <FileName>BasicOOP\Modelling\Tool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BasicAlgorithmAndDataStructures.BasicOOP.Modelling.Engine">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAIAAwAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BasicOOP\Modelling\Tool.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BasicAlgorithmAndDataStructures.BasicOOP.Modelling.Colour">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAABAAAAAAgAAAAAAAAAABAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>BasicOOP\Modelling\Tool.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,10 @@
+﻿Enumeration
+IEnumerable
+IEnumerator
+IEnumerable<T>
+IEnumerator<T>
+ICollection<T>
+ICollection
+IList
+ReadOnlyList
+Array
